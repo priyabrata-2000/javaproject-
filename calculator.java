@@ -1,0 +1,6 @@
+public class first {
+    Run|Debug
+    public static void main(string[] args){
+        system.out.println(x: "BOOM !!");
+    }
+}
